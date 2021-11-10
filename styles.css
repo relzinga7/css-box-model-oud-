@@ -1,0 +1,98 @@
+.container {
+    width: 80%;
+    margin: auto;    
+}
+
+
+.box-1 {
+    color: red;
+    background-color:rgb(250, 235, 215, 0.9);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -5px;
+}
+
+.images {
+    padding: 15px;
+
+}
+
+#beige-backround {
+    background-color: rgb(250, 235, 215, 0.9);
+    
+}
+
+body {
+    background-image: url(sitebackground.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgb(250, 235, 215);
+    background-size: cover;
+    font-style: italic;
+    padding: 10px;
+    margin-top: -8px;
+
+}
+
+h1 { 
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: underline;
+    
+    
+}
+
+hr {
+    margin: 0px;
+}
+
+
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+    margin-top: -16px;
+    margin-bottom: -16px;
+
+    color: wheat
+}
+
+nav a { 
+    color: white;
+}
+
+nav ul {
+    padding: 15px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+
+h2 {
+    border: 5px solid black;
+    border-style: double;
+    border-radius: 10%;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 15px;
+
+}
+
+section {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p {
+    padding-left: 15px;
+    padding-bottom: 15px;
+    
+}
+
+
